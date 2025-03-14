@@ -16,7 +16,6 @@ WexBot, Discord sunucularınızı verimli bir şekilde yönetmek için geliştir
   ```bash
   npm install
   ```
-
 ## Kullanım
 1. Botun ayarlarını yapılandırın.
 2. Botu başlatın.
